@@ -8,7 +8,7 @@ public class Main {
 
             if (i  == 42){
 
-                System.out.println("Answer to the ultimate question of life, the universe and everyting");
+                System.out.println("Answer to the Ultimate Question of life, the Universe and Everything");
 
             }
             else if (i % 3 == 0 && i % 5 == 0) {
